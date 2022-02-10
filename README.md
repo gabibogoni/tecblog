@@ -1,2 +1,2 @@
 # tecblog
-Blog feito à partir de estudos com HTML e CSS
+Blog feito à partir de estudos com HTML e CSS.
